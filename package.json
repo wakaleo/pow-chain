@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "elliptic": "^6.5.4",
+    "express": "^4.17.2",
+    "jayson": "^3.6.6"
+  },
+  "name": "pow-chain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
